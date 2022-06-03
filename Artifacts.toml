@@ -1,0 +1,288 @@
+[[LinearTurboFold]]
+arch = "aarch64"
+git-tree-sha1 = "eb8b78b30bf44024397914190e1f998bd32048bc"
+os = "macos"
+
+    [[LinearTurboFold.download]]
+    sha256 = "b1d80de7735c661503662249836ff1174eb090ae74178ce2d9ab70f049a54851"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[LinearTurboFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc44a3552e996e871fe435fba8fbeaf10c4235c1"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "e5f6d2ee66ab84a7cce9b1e3f9fc36c40f4fe9bd497bd057bb9961e387e08ada"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a2fd2478f8b225f387fdbbf5eca625381de5508"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "87d7ee7554e7ade0d07170816a817e319ec4e21ab1af6095d7e7142152b21918"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "870e6393f97783481f6d558145cb0603abde3d66"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "bb5fb5678b2baaa196f632a062c9ed54dd2d8171ca4242389b0122c818ed07be"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.aarch64-linux-musl-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5984d5d5a02cb67971f32e8290392034f2e0a78d"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "287d9d87cdf3c4dc2da6c53572c830feae31d248a6d96745b0d4d4867a7a966f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.aarch64-linux-musl-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9617d7e91c9af58992913cb04f10a7d1d09dbf7d"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "1a0aa1130f350dbc575cdd0abd0056d04888af0ab003fbd35f0f0975a7d7f7ad"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0cd14fe59031b339af9df180ba614cd7f9d4f4f5"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "7bac483f0eab00dca69488bb39b8b7fdd787d86c23e1d8ff1a7ad47ded5baee7"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "33600eacf778f3444ca155f49172041e0a308035"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "94a8b22f420dc3b155106fd90e03bb4ac0bf235e3bbe07640f9a656a2b0d38db"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2f25e8b3ec86ab82a617ddc6d2e0ca5614275db"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "a54e744944b932dfc8c5b139fd194f56bc62a179285b49b67276918223e1b612"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ef5ce705709d49ba69db76ae3bd5567d44dd4f50"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "22477fc46059d73dd41af17fbc93a10bb0d06322969198ed93152f5a86e6dfcf"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "129d9a8b27a3ad298034425d17f59f5d9614ed25"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "a400312374c4d056dd4d2b0eb4041219eeedf8395344dec64780f9baec96d5fd"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80701f13a9c207f0523ef2a6e18ac77777d9a1a7"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "d1d4fdd8f3d8eb95b6bbe0cdbf18a6a4cb0ca8bbc8f1541c05b241f8c5585f91"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e95f4c99d1547c6ac343dc5ee16fd2f9e1839f0e"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "4de98a2da8e78d2a34323e6954992b4379b6d42504b7e17fcf919736be977547"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b7f128f873da5a56339ab3bce18b6960d9e2a68"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "b2a17f06d2dfef4f290074ccc631859152a7d414469a22bde7b26f83a2acd9b6"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.i686-linux-gnu-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1f4680300679e724d122bb5180d72d29919ae5f"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "11710292bd8296ebb9009a89e6ea8fc8d9cab6244a33847cb94e5eab9d0ff638"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.i686-linux-gnu-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bacc106e6fe46188891cc0cccf257d77cea64147"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "17d08ff7179255ec93b45112a3a61d8f0c3ef1b37f3408bbbb3916d0fb6deb19"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.i686-linux-musl-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b51d9b84edf49885cf4a3504286167d015243e01"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "3dffe4cceafcf27b9a82dae3358865f8d6981cb2cb62779152ee3c325781301b"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.i686-linux-musl-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94c35472aed17449562a7fad10dfc43ba89efe3c"
+os = "windows"
+
+    [[LinearTurboFold.download]]
+    sha256 = "9b3a6f9646f703f2655ee89fcdffd842735dd3959b39ae7d60ac88eed8e6f96a"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.i686-w64-mingw32-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "531bf7d786b21298d916f3c729d53631dcf2c7db"
+os = "windows"
+
+    [[LinearTurboFold.download]]
+    sha256 = "4f569a44a47eaca3b648fc64f8714ee6bcbb76546f606e51b3aa3405d072315f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52fde2e396b5e49ec21c33e501ec44e5c7edcdbd"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "9c98b26d23e9fd04bd6d5d6e23d89f991c93698f5a993cd538d0bbcdd0d428d0"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "76b5332bf2a6d91ed052cadcd24cdd9f43a1d430"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "bf99e9c3253e4331c2adde14d92cf5a0b27683ce3dde1c5baeaa1013d2987d90"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+git-tree-sha1 = "d1d800aa7819bdf19710aa7fd52ffc7e74fa5de1"
+os = "macos"
+
+    [[LinearTurboFold.download]]
+    sha256 = "779a9a821b6f7f36b8f359a05412e6f23e67697560be0b42cb757fadec7882ec"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d46a1db6ed6e9e7cb32e9eefc132dd9080ce7b46"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "08e216291cb00d6f3406798ccc51dc419a1373e49acb9731310095b0271c729d"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77bafc091eb9fe107ed2f845af85acf40038e679"
+libc = "glibc"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "f1438c185aec6f125e788a242da3d0c818c48df34e7543284bdfe0007492caf3"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8928bcc46f910fbd307d1b52430e33b14d3453ee"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "96d408c6e31e5711a65b7542aecae080a8e175202c18450b4df7609f7dfedf19"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-linux-musl-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e0f5902270a200013ae4ca06270d87c6d42a2826"
+libc = "musl"
+os = "linux"
+
+    [[LinearTurboFold.download]]
+    sha256 = "f624ad8248767b316e9091fd222b87ae3f53f8c101c21e5ea29c681103fd23a8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+git-tree-sha1 = "328b5c5f97fb14c534a60c867b2ac552ddb26da5"
+os = "freebsd"
+
+    [[LinearTurboFold.download]]
+    sha256 = "8352c23101500ff5b1046d64bd4524f4e1dc22d4b78d7400ca90a52d7280f766"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6febaa1dd7d6b70db34a5e480746b83de434f529"
+os = "windows"
+
+    [[LinearTurboFold.download]]
+    sha256 = "bbf502ea82ac08a793569962ea851de598831eb2d94ef17387142838c66e59f8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LinearTurboFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb1033ab02475996e5884a0d6d4d85accdb291ea"
+os = "windows"
+
+    [[LinearTurboFold.download]]
+    sha256 = "d247cce946c9df1e3c91ffd5f68791d7912f43e56a3c6cb053fe8752dfe8ae5f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearTurboFold_jll.jl/releases/download/LinearTurboFold-v0.0.1+0/LinearTurboFold.v0.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
